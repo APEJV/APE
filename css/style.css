@@ -1,0 +1,6 @@
+@font-face {
+  font-family: "BAUHS93";
+  src: local("BAUHS93"), url("../media/BAUHS93.ttf") format("truetype");
+}
+
+#titre { font-family: 'BAUHS93', Arial; }
